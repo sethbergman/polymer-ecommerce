@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "ng4demo-app"
+    "default": "ng4demo-app",
+    "staging": "ng4demo-app"
   }
 }
